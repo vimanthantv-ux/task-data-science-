@@ -1,0 +1,26 @@
+Employee_ID,Age,Gender,Education_Level,Job_Title,Years_of_Experience,Base_Salary,Bonus,Deductions,Net_Salary
+EMP001,29,Female,Master's,Data Analyst,2,73000,4668,4380,73288
+EMP002,28,Non-binary,Bachelor's,Digital Marketer,5,65000,3456,3900,64556
+EMP003,27,Female,Bachelor's,Account Executive,5,65000,3422,3900,64522
+EMP004,34,Non-binary,PhD,AI Engineer,8,104000,11328,6240,109088
+EMP005,22,Female,High School,Product Manager,1,49000,3211,2940,49271
+EMP006,43,Female,Bachelor's,Engineering Manager,17,125000,16843,7500,134343
+EMP007,38,Female,PhD,Sales Manager,12,108000,15909,6480,117429
+EMP008,46,Female,PhD,HR Manager,21,144000,15513,8640,150873
+EMP009,26,Female,Bachelor's,UX Designer,7,73000,9893,4380,78513
+EMP010,28,Male,Master's,Accountant,4,69000,9205,4140,74065
+EMP011,32,Male,Master's,Finance Director,8,85000,10215,5100,90115
+EMP012,26,Non-binary,Bachelor's,Accountant,5,65000,4841,3900,65941
+EMP013,51,Male,Master's,Finance Director,27,161000,21619,9660,172959
+EMP014,25,Female,Bachelor's,UX Designer,7,73000,5604,4380,74224
+EMP015,35,Non-binary,PhD,AI Engineer,10,112000,10031,6720,115311
+EMP016,51,Female,Master's,AI Engineer,27,173000,21573,10380,184193
+EMP017,49,Non-binary,Master's,Senior Data Scientist,24,161000,16253,9660,167593
+EMP018,27,Female,Bachelor's,Financial Analyst,2,53000,3497,3180,53317
+EMP019,49,Non-binary,Bachelor's,Marketing Director,23,137000,14098,8220,142878
+EMP020,57,Female,PhD,Finance Director,34,196000,24864,11760,209104
+EMP021,43,Female,Master's,AI Engineer,17,133000,6693,7980,131713
+EMP022,38,Non-binary,Bachelor's,HR Manager,15,105000,14087,6300,112787
+EMP023,54,Non-binary,Bachelor's,UX Designer,30,165000,17149,9900,172249
+EMP024,55,Female,PhD,Marketing Director,30,180000,11013,10800,180213
+EMP025,45,Male,Bachelor's,Senior Data Scientist,22,145000,8491,8700,144791
